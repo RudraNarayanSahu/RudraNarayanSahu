@@ -26,7 +26,7 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/RudraNarayanSahu/RudraNarayanSahu/blob/main/images/inbox-zero-dark.svg" />
 
 
-- 🔭 I’m currently working on Cadence.
+- 🔭 I’m currently working on CAD tools i.e Cadence virtuoso.
 
 - 💬 Ask me about <code><strong>VLSI</code></strong>.
 
