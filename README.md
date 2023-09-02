@@ -14,7 +14,7 @@
          width="60" />I am Rudra
 </h1>
 
-<p align="center">A <strong>final year</strong> undergraduate pursuing <strong>Bachelors of Technology </strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <a href="https://silicon.ac.in/"><strong>Silicon Institute of Technology,Bhubaneswar</strong></a>.<br>I am a <code><strong>VLSI enthusiast</strong></code>,<code><strong>Skilled in Python Programming language</strong></code>.
+<p align="center">Graduated <strong>Bachelors of Technology </strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <a href="https://silicon.ac.in/"><strong>Silicon Institute of Technology,Bhubaneswar</strong></a>.<br>I am a <code><strong>VLSI enthusiast</strong></code>,<code><strong>Technophile</strong></code>.
 </p>
 
 
@@ -26,11 +26,11 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/RudraNarayanSahu/RudraNarayanSahu/blob/main/images/inbox-zero-dark.svg" />
 
 
-- 🔭 I’m currently working on CAD tools i.e Cadence virtuoso.
+- 🔭 I’m currently working on CAD tools i.e Cadence virtuoso, OrCad.
 
 - 💬 Ask me about <code><strong>VLSI</code></strong>.
 
-- 🌱 I’m currently learning <code><strong>Analog VLSI</strong></code>.
+- 🌱 I’m currently learning <code><strong>RF Hardware Engg</strong></code>.
 
 - 📫 Contact me here: **sahurudra95@gmail.com**
 
