@@ -14,7 +14,7 @@
          width="60" /> I am Rudra Narayan Sahu
 </h1>
 
-<p align="center"><strong>Bachelor of Technology</strong>(B.Tech) in <code><strong>Electronics and Communication</strong></code>,<br>from <a href="https://silicon.ac.in/"><strong>Silicon Institute of Technology, Bhubaneswar</strong></a>.<br>I am a <code><strong>VLSI enthusiast</strong></code>,<code><strong>Technophile</strong></code>.
+<p align="center"><strong>Bachelor of Technology</strong>(B.Tech) in <code><strong>Electronics and Communication</strong></code>,<br>from <a href="https://silicon.ac.in/bbsr-home/"><strong>Silicon Institute of Technology, Bhubaneswar</strong></a>.<br>I am a <code><strong>VLSI enthusiast</strong></code>,<code><strong>Technophile</strong></code>.
 </p>
 
 
